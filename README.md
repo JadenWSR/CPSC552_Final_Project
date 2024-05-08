@@ -14,7 +14,7 @@ We used two datasets.
 Due to the limited size of MixSet, we enhance it by integrating samples from the Augmented Data for LLM, creating a balanced dataset with three categories: pure human, pure AI, and mixed texts. This balanced dataset comprises 7,500 entries for training and 1,500 for testing, with a further 5\% of the training set reserved as a validation set.
 
 ## Report
-Our project report can be found [here]().
+Our project report can be found [here](https://github.com/JadenWSR/CPSC552_Final_Project/tree/main/Report/CPSC452_Final_Report.pdf).
 
 ## Code
 Experiments with MobileBERT can be found [here](https://github.com/JadenWSR/CPSC552_Final_Project/tree/main/Triplet_Model_3_Category_Mobile_Bert.ipynb).
@@ -22,4 +22,4 @@ Experiments with MobileBERT can be found [here](https://github.com/JadenWSR/CPSC
 Experiments with DistilBERT can be found [here](https://github.com/JadenWSR/CPSC552_Final_Project/tree/main/Triplet_Model_3_Category_DistilBERT.ipynb). 
 
 ## Video
-A 5-minute video explaining our project can be found [here]().
+A Youtube video explaining our project can be found [here](https://www.youtube.com/watch?v=sOyAG4tG4jc).
